@@ -7,6 +7,7 @@ Source folder not supporting subfolders, but multiple folders in source folder a
 
 Uses rpa framework for folder creation and file moving.
 
-Requires .env file where paths need to be declared
+Requires .env file where paths need to be declared. Correct for .env is "folders.env".
+Notice trailing \ in 
 
 
